@@ -27,6 +27,7 @@ At the moment I am studying at RS School on the Frontend Developer Stage0 course
 ## Education
 Polotsk State University 2009-2013: Logistics  
 UX Mind School 2020:  UX/UI Design
+Epam Rsschool 2022 Q2
 
 ## Foreign language
 English A2+
