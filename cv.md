@@ -13,6 +13,7 @@ Finished Rsschool 2022Q2
 2. CSS
 3. Git
 4. JS
+5. Figma
 ## Code examples
   >var dino = document.getElementBYId("dino");  
    var cactus = document.getElementBYId("cactus");  
